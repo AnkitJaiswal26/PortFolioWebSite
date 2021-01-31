@@ -536,8 +536,4 @@ tr{
     .header {
         min-height: 100vh;
     }
-
-    .header .navbar{
-        background-color: whitesmoke;
-    }
 }
